@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "sdkVersion": "30.0.0",
+    "icon": "./img/icon.png",
+    "splash": {
+      "backgroundColor": "#FF9800",
+      "resizeMode": "contain",
+      "image": "./img/splash_logo.png"
+    }
+  }
+}
